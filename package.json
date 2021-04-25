@@ -31,7 +31,7 @@
         "lint:fix": "eslint . --ignore-path .gitignore --ext .ts --fix"
     },
     "dependencies": {
-        "luaparse": "^0.2.1",
+        "luaparse": "^0.3.0",
         "printj": "^1.2.2"
     },
     "devDependencies": {
